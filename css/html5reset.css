@@ -28,14 +28,6 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
-body {
-	background-color: #000000;
-	color: #ffffff;
-	margin-top: ;
-	margin-right: ;
-	margin-left: ;
-	line-height: 1;
-}
 ol, ul {
 	list-style: none;
 }
